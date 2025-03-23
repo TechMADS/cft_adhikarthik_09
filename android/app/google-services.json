@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16305536951",
+    "project_id": "cft-v1-d4e82",
+    "storage_bucket": "cft-v1-d4e82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16305536951:android:2948e46d60ac5353e1f232",
+        "android_client_info": {
+          "package_name": "com.example.carbon_footprint_tracker_by_teamtech_mads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOcAiIdOR2DDJFDWi6zFNCKXYmI-DFDj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16305536951:android:1ba5ba8897d7ad5ce1f232",
+        "android_client_info": {
+          "package_name": "com.example.cft_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOcAiIdOR2DDJFDWi6zFNCKXYmI-DFDj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
